@@ -18,6 +18,7 @@ function App() {
 
   const filtered = useMemo(() => {
     return events.filter((e) => {
+      if (!e.link) return false;
       const matchesCity = selectedCity === "" || e.city === selectedCity;
       const matchesSearch =
         searchQuery === "" ||
