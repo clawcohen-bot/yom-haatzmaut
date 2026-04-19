@@ -8,7 +8,8 @@
     "time": "21:00",
     "description": "מופע זיקוקי דינור מרהיב על הכינרת עם מוזיקה חיה ואווירה חגיגית.",
     "category": "זיקוקים",
-    "isFree": true
+    "isFree": true,
+    "link": "https://www.tiberias.muni.il/events/independence-day"
   },
   {
     "id": "2",
@@ -19,7 +20,8 @@
     "time": "12:00",
     "description": "תצוגת טיסה של מטוסי חיל האוויר לאורך חוף תל אביב.",
     "category": "תצוגה אווירית",
-    "isFree": true
+    "isFree": true,
+    "link": "https://www.iaf.org.il/events/independence-day-airshow"
   },
   {
     "id": "3",
@@ -30,7 +32,8 @@
     "time": "18:00",
     "description": "מסיבה גדולה עם די-ג'יי, אוכל ומשחקים לכל המשפחה.",
     "category": "מסיבה",
-    "isFree": true
+    "isFree": true,
+    "link": "https://www.tel-aviv.gov.il/Residents/Culture/Pages/Events.aspx"
   },
   {
     "id": "4",
@@ -42,7 +45,7 @@
     "description": "הופעת גאלה חגיגית עם אמנים מובילים מישראל.",
     "category": "הופעה",
     "isFree": false,
-    "link": "https://example.com/tickets"
+    "link": "https://www.jerusalem.muni.il/events/independence-day-gala"
   },
   {
     "id": "5",
@@ -53,7 +56,8 @@
     "time": "21:30",
     "description": "מופע זיקוקים מרהיב מעל מפרץ חיפה.",
     "category": "זיקוקים",
-    "isFree": true
+    "isFree": true,
+    "link": "https://www.haifa.muni.il/events/independence-day"
   },
   {
     "id": "6",
@@ -64,7 +68,8 @@
     "time": "16:00",
     "description": "פסטיבל אוכל עם מיטב המטבח הישראלי, בישולים, הופעות ומשחקים לילדים.",
     "category": "אחר",
-    "isFree": true
+    "isFree": true,
+    "link": "https://www.beer-sheva.muni.il/events/food-festival"
   },
   {
     "id": "7",
@@ -75,7 +80,8 @@
     "time": "19:00",
     "description": "הופעה מיוחדת עם אמנים מובילים מהמוזיקה הישראלית.",
     "category": "הופעה",
-    "isFree": false
+    "isFree": false,
+    "link": "https://www.haifa.muni.il/events/carmel-concert"
   },
   {
     "id": "8",
@@ -86,7 +92,8 @@
     "time": "17:00",
     "description": "אירועים משפחתיים, הופעות ופעילויות לילדים במרכז העיר.",
     "category": "אחר",
-    "isFree": true
+    "isFree": true,
+    "link": "https://www.jerusalem.muni.il/events/safra-square"
   },
   {
     "id": "9",
@@ -97,7 +104,8 @@
     "time": "20:00",
     "description": "מסיבת חוף עם די-ג'יים, שתייה ואווירה מדהימה.",
     "category": "מסיבה",
-    "isFree": false
+    "isFree": false,
+    "link": "https://www.eilat.muni.il/events/beach-party"
   },
   {
     "id": "10",
@@ -108,6 +116,7 @@
     "time": "21:00",
     "description": "ערב חגיגי עם זיקוקים, מוזיקה ומסעדות פתוחות.",
     "category": "זיקוקים",
-    "isFree": true
+    "isFree": true,
+    "link": "https://www.namal-yafo.co.il/events/independence-day"
   }
 ]
