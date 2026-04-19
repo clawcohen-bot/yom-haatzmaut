@@ -32,6 +32,10 @@ export default function EventCard({ event }: EventCardProps) {
           <span>{event.location}, {event.city}</span>
         </div>
         <div className="event-detail">
+          <span>📅</span>
+          <span>{new Date(event.date).toLocaleDateString("he-IL", { day: "numeric", month: "long", year: "numeric" })}</span>
+        </div>
+        <div className="event-detail">
           <span>🕐</span>
           <span>{event.time}</span>
         </div>
